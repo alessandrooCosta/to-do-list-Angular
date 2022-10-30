@@ -1,3 +1,3 @@
 # ToDoListAngular
 
-todolist500.netlify.app
+https://todolist500.netlify.app
