@@ -1,21 +1,19 @@
-# Angular build e output
-.angular/
-/dist/
-/out-tsc/
-/build/
+# Ignorar pastas e arquivos específicos
 
-# Diretórios de dependências
-/node_modules/
+# Ignorar a pasta .vscode
+.vscode/
 
-# Configurações do sistema operacional
-.DS_Store
-Thumbs.db
+# Ignorar a pasta dist
+dist/
 
-# Configurações de IDEs
-.idea/
-*.iml
+# Ignorar arquivos de configuração específicos
+.browserslistrc
+.editorconfig
+.angular.json
+karma.conf.js
+package-lock.json
+package.json
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
 
-# Logs e relatórios
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
