@@ -17,3 +17,8 @@ tsconfig.app.json
 tsconfig.json
 tsconfig.spec.json
 
+# Ignorar a pasta .angular/
+.angular/
+
+# Ignorar a pasta node_modules/
+node_modules/
